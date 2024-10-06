@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\lo b\u00E0i t\u1EADp\\baitap\\baitap\\studentservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\studentservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\lo b\u00E0i t\u1EADp\\baitap\\baitap\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\lo b\u00E0i t\u1EADp\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\lo b\u00E0i t\u1EADp\\baitap\\baitap\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719BD2C0-4A1D-40A7-AF65-800D64A9C2C4}|BaiTap\\BaiTap.csproj|solutionrelative:baitap\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\StudentService\\StudentService.cs",
+              "RelativeDocumentMoniker": "BaiTap\\StudentService\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\StudentService\\StudentService.cs",
+              "RelativeToolTip": "BaiTap\\StudentService\\StudentService.cs",
+              "ViewState": "AQIAAGMBAAAAAAAAAAAwwI0BAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:10:58.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Student.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Student.cs",
+              "RelativeToolTip": "BaiTap\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:46:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Person.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Person.cs",
+              "RelativeToolTip": "BaiTap\\Person.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawCoAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:45:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\LO B\u00E0i t\u1EADp\\BaiTap\\BaiTap\\Program.cs",
+              "RelativeToolTip": "BaiTap\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:34:46.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
